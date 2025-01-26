@@ -9,6 +9,41 @@ This Power BI project offers a comprehensive analysis of Polycystic Ovary Syndro
 - **Symptom Analysis**: Discover patterns in symptom prevalence and severity.
 - **Comparative Insights**: Compare trends across different subgroups.
 - **Custom Filters**: Use slicers for a focused analysis of specific factors.
+- 
+## Key Findings
+AGE
+20-25 : 59%
+Less than 20 : 33%
+Other(14) : 8%
+
+MARITAL STATUS
+Unmarried : 90%
+Married :9%
+Widow(1) : 1%
+
+PCOS 
+No : 77%
+Yes :22%
+
+FAMILY HISTORY
+No : 84%
+Yes : 15%
+
+MENSTRUAL IRREGULARITY
+True : 58%
+False : 42%
+
+HORMONAL IMBALANCE
+Yes : 56%
+No : 43%
+
+HYPERANDROGENISM
+True : 14%
+False : 86%
+
+HIRSUTISM
+No : 71%
+Yes : 28%
 
 ## Objectives
 - Identify trends and patterns associated with PCOS.

@@ -1,95 +1,72 @@
-# PCOS Analysis - Power BI Project
+# Power BI Projects
 
-## Overview
-This Power BI project offers a comprehensive analysis of Polycystic Ovary Syndrome (PCOS) data. The report leverages dynamic dashboards and interactive visualizations to uncover insights into PCOS trends, demographics, symptoms, and correlations, providing valuable information for researchers and medical professionals.
+Welcome to my Power BI projects repository! 🚀 Here, you'll find a collection of data visualization and business intelligence projects built using Microsoft Power BI. Each project is designed to showcase data insights through interactive dashboards, reports, and data analysis techniques.
 
-## Features
-- **Interactive Dashboards**: Explore dynamic visuals for data analysis.
-- **Demographic Insights**: Analyze key demographic parameters like age and BMI.
-- **Symptom Analysis**: Discover patterns in symptom prevalence and severity.
-- **Comparative Insights**: Compare trends across different subgroups.
-- **Custom Filters**: Use slicers for a focused analysis of specific factors.
-- 
-## Key Findings
-AGE
-20-25 : 59%
-Less than 20 : 33%
-Other(14) : 8%
 
-MARITAL STATUS
-Unmarried : 90%
-Married :9%
-Widow(1) : 1%
+## 📖 About
+This repository contains various Power BI projects that analyze datasets from different domains such as sales, finance, healthcare, and more. The goal is to extract meaningful insights and present them in an engaging way.
 
-PCOS 
-No : 77%
-Yes :22%
+## 📊 Projects
+Here are some of the Power BI projects included in this repository:
+1) COMPREHENSIVE HEALTH ANALYSIS OF PCOS PATIENTS
+   
+-Features
+Interactive Dashboards: Explore dynamic visuals for data analysis.
+Demographic Insights: Analyze key demographic parameters like age and BMI.
+Symptom Analysis: Discover patterns in symptom prevalence and severity.
+Comparative Insights: Compare trends across different subgroups.
+Custom Filters: Use slicers for a focused analysis of specific factors.
 
-FAMILY HISTORY
-No : 84%
-Yes : 15%
+-Key Findings
+AGE 20-25 : 59% Less than 20 : 33% Other(14) : 8%
 
-MENSTRUAL IRREGULARITY
-True : 58%
-False : 42%
+MARITAL STATUS Unmarried : 90% Married :9% Widow(1) : 1%
 
-HORMONAL IMBALANCE
-Yes : 56%
-No : 43%
+PCOS No : 77% Yes :22%
 
-HYPERANDROGENISM
-True : 14%
-False : 86%
+FAMILY HISTORY No : 84% Yes : 15%
 
-HIRSUTISM
-No : 71%
-Yes : 28%
+MENSTRUAL IRREGULARITY True : 58% False : 42%
 
-## Objectives
-- Identify trends and patterns associated with PCOS.
-- Highlight demographic factors and their correlation with symptoms.
-- Provide actionable insights to medical professionals and stakeholders.
+HORMONAL IMBALANCE Yes : 56% No : 43%
 
-## Files Included
-- `pcos_analysis_final.pbix`: The Power BI report file containing dashboards and visualizations.
-- `Cleaned-Data.csv`: The dataset used for this analysis.
+HYPERANDROGENISM True : 14% False : 86%
 
-## Prerequisites
-To explore or modify this project, you need:
-- [Power BI Desktop](https://powerbi.microsoft.com/desktop/) installed on your computer.
+HIRSUTISM No : 71% Yes : 28%
 
-## How to Use
-1. Clone this repository or download the `.pbix` and `.csv` files.
-2. Open the `.pbix` file in Power BI Desktop.
-3. Interact with the dashboards to uncover insights.
-4. Modify or customize the visualizations as per your requirements.
+2) MADHAV E-COMMERCE SALES DASHBOARD
 
-## Data Source
-The data for this analysis is derived from `Cleaned-Data.csv`, which has been processed to ensure accuracy and relevance. The dataset includes demographic details, symptom records, and other factors related to PCOS.
+   Dashboards Included:
 
-## Visuals and Insights
-### Dashboards Included:
-1. **Overview Dashboard**:
-   - Provides a summary of key metrics, including PCOS prevalence, average age, and BMI.
-2. **Demographics Dashboard**:
-   - Explores trends in age, weight, and other demographic parameters.
-3. **Symptoms Dashboard**:
-   - Analyzes the prevalence and severity of symptoms among different subgroups.
+Key metrics like total revenue, profit, and growth rate.
 
-### Key Findings:
-- **Prevalence**: X% of individuals in the dataset are affected by PCOS.
-- **Demographics**: The majority of cases occur in individuals aged 20-30 years, with higher prevalence observed in those with a BMI above 30.
-- **Symptom Correlation**: Common symptoms include irregular periods (X%), hirsutism (Y%), and acne (Z%).
+Top-performing products and categories.
+
+Customer Dashboard:
+
+Analysis of customer demographics and purchasing behavior.
+
+Customer segmentation based on revenue contribution.
+
+Regional Performance Dashboard:
+
+Heatmaps and charts showing sales performance by region.
+
+Comparison of revenue and profit across locations.
+
+Each project folder contains:
+- `.pbix` Power BI file
+- Dataset (CSV, Excel, or SQL scripts)
+- Documentation explaining the insights and analyse data
+
+## 📩 Contact
+
+- 📧 Email: [deeksha.codes@gmail.com](mailto:deeksha.codes@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/deeksha-meena-7335b2340](https://linkedin.com/in/deeksha-meena-7335b2340)
+- 💻 GitHub: [github.com/deekshaLearns](https://github.com/deekshaLearns)
+
+Happy analyzing! 📊📈
 
 
 
 
-## Author
-**Deeksha Meena**
-- Email: [deeksha.codes@gmail.com](mailto:deeksha.codes@gmail.com)
-- LinkedIn: [Deeksha Meena](https://linkedin.com/in/deeksha-meena-7335b2340)
-
-
-
-
-# powerbi
